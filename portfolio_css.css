@@ -113,6 +113,7 @@ nav #menu li a {
   color: #fff;
   text-align: center;
    font-family: 'Playfair Display', serif;
+   font-size: 20px;
 }
 
 nav #menu li:hover {
