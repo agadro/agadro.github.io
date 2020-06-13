@@ -2,4 +2,4 @@
 
 Some pretty stuff in progress. Stay tuned.
 
-<img src="main.png"/>
+<img src="images/main.png"/>
